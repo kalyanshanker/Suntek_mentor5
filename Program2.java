@@ -4,7 +4,7 @@
 
 
 import java.util.*;
-public class Program1 { 
+public class Program2 { 
     static int[] hash(int[]arr,int[] query)   // fun complexity of o(n)
     {
         int c=0;
