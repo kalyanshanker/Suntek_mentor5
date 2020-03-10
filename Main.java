@@ -62,7 +62,6 @@ public class Main {
          str = str.trim(); 
         str = str.replaceAll(" +", " ");
        
-System.out.println(""+str);
         //numbers.split(" ");
         
         String[] integerStrings = str.split(" "); 
