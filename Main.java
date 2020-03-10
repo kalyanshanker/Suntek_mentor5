@@ -81,8 +81,8 @@ for (int i = 0; i < integers.length; i++){
     public static void main(String[] args)   //code block
     { int c=0;
      Scanner s= new Scanner(System.in);
-     String str = "[[0,10],[1,2],[0,0],[3,3],[2,3]]";
-      String str1 ="[3,3,3,3,3,3,3,3,3,3,3,3,3,3]";    
+     String str = "[[0,10],[1,2],[0,0],[3,3],[2,3]]"; String str1 ="[3,3,3,3,3,3,3,3,3,3,3,3,3,3]";  // o/p--->[3,0,3,3,0]
+    // String str = "[[0,1],[1,2],[0,3],[3,3],[2,3]]"; String str1 ="[1,3,4,8,9]"; //uncomment to test it// o/p---->[2,7,14,12]
     // String str=s.nextLine();              //uncoment to give input from console
      //String str1=s.nextLine();             //uncoment to give input from console
        int query [] = extractInt(str); //System.out.println(Arrays.toString(query));
