@@ -1,3 +1,4 @@
+//link for the code to compile:https://repl.it/@euclid086/bitMan1
 // String str = "[[0,1],[1,2],[0,3],[3,3],[2,3]]"; ---->queery
 // String str1 ="[1,3,4,8,9]";         ------ >ip arry
 //[2,7,14,12]---->output of code
