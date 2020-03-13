@@ -12,7 +12,7 @@ public class Program2
         System.out.println(ans);
         Testing();
     }
-    private static int findMinFlips(int a, int b, int c) 
+    int findMinFlips(int a, int b, int c) 
     {
         int counter=0;
         // Finding max of  and b and c. So that we can have a base contion when we are rightShifting
@@ -66,7 +66,7 @@ public class Program2
         }
         return counter;
     }
-    public static void Testing()
+    void Testing()
     {
         //TestCase 1
         int testA1=2;
